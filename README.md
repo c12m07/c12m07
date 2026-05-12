@@ -13,10 +13,10 @@ Me apasiona crear interfaces modernas, intuitivas y responsive, desarrollar solu
 
 ## Stack Tecnológico
 
-Frontend: React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3  
-Backend: Node.js, Express.js, PostgreSQL, Prisma, REST APIs  
-State & Authentication: Context API, JWT  
-Tools & Cloud: Git, GitHub, AWS, Vercel, Render, Figma
+**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3  
+**Backend:** Node.js, Express.js, PostgreSQL, Prisma, REST APIs  
+**State & Authentication:** Context API, JWT  
+**Tools & Cloud:** Git, GitHub, AWS, Vercel, Render, Figma
 
 ---
 
