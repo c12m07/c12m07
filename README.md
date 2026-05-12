@@ -26,7 +26,7 @@ Tools & Cloud: Git, GitHub, AWS, Vercel, Render, Figma
 
 Plataforma de gestión gastronómica diseñada para optimizar la experiencia de clientes y restaurantes mediante reservas online, visualización de menús digitales y gestión de órdenes en tiempo real.
 
-### Rol: Frontend Developer
+Rol: Frontend Developer
 
 ### Responsabilidades:
 - Desarrollo de interfaces modernas y responsive
@@ -48,7 +48,7 @@ Next.js · React · TypeScript · Tailwind CSS · Axios · Context API · SweetA
 
 Plataforma eCommerce enfocada en la publicación, gestión y comercialización de productos tecnológicos mediante una aplicación web moderna, intuitiva y completamente responsive.
 
-### Rol: Full Stack Developer
+Rol: Full Stack Developer
 
 ### Responsabilidades:
 - Desarrollo completo de frontend y backend
@@ -76,7 +76,7 @@ Programa intensivo de formación Full Stack enfocado en React, TypeScript, Node.
 
 ## Contacto
 
-📧 Email: tuemail@email.com  
+📧 Email: ximic4@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/carlosmartinez-dev)
 
 
