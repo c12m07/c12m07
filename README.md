@@ -11,7 +11,7 @@ Me apasiona crear interfaces modernas, intuitivas y responsive, desarrollar solu
 
 ---
 
-# Stack Tecnológico
+## Stack Tecnológico
 
 Frontend: React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3  
 Backend: Node.js, Express.js, PostgreSQL, Prisma, REST APIs  
@@ -20,9 +20,9 @@ Tools & Cloud: Git, GitHub, AWS, Vercel, Render, Figma
 
 ---
 
-# Proyectos Destacados
+## Proyectos Destacados
 
-## GastroFlow Web (Proyecto grupal)
+### GastroFlow Web (Proyecto grupal)
 
 Plataforma de gestión gastronómica diseñada para optimizar la experiencia de clientes y restaurantes mediante reservas online, visualización de menús digitales y gestión de órdenes en tiempo real.
 
@@ -66,15 +66,15 @@ Next.js · React · TypeScript · Tailwind CSS · Node.js · Express · PostgreS
 
 ---
 
-# Educación
+## Educación
 
-## Soy Henry – Full Stack Web Developer (2025 - 2026)
+### Soy Henry – Full Stack Web Developer (2025 - 2026)
 
 Programa intensivo de formación Full Stack enfocado en React, TypeScript, Node.js, PostgreSQL, APIs REST, testing, cloud deployment y metodologías ágiles.
 
 ---
 
-# Contacto
+## Contacto
 
 📧 Email: tuemail@email.com  
 💼 [LinkedIn](https://www.linkedin.com/in/carlosmartinez-dev)
