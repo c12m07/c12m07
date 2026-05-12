@@ -1,6 +1,6 @@
 # Hola, soy Carlos Andrés Martínez Acuña!
 
-## Full Stack Developer | React · Next.js · TypeScript · Node.js
+**Full Stack Developer |** React · Next.js · TypeScript · Node.js
 📍 Bogotá, Colombia
 
 Soy Full Stack Developer enfocado en la construcción de aplicaciones web modernas utilizando React, Next.js, TypeScript, Node.js y PostgreSQL. Recientemente me gradué de un programa intensivo de Full Stack Engineering orientado al desarrollo de proyectos reales, arquitectura moderna de software, APIs REST, testing y despliegue en la nube.
